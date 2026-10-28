@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Kozea/misfile/commit/b2c71b4369efea52216afc23e0a33d12568efb77",
       "git:hexsha": "b2c71b4369efea52216afc23e0a33d12568efb77",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
